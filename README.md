@@ -1,25 +1,5 @@
-# <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/></div>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Sudeep N Shetty
 
-<div align="center">
-  
-### I'm **Sudeep N Shetty**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+digital+space+%F0%9F%9A%80;Where+ideas+transform+into+reality+%E2%9C%A8;Let's+build+something+amazing+together!+%F0%9F%92%BB)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudeepnshetty&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/sudeepnshetty?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-</div>
 
 <div align="center">
   
