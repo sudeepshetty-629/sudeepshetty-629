@@ -65,7 +65,6 @@ me.say_hi()
 🎓 **AI & Data Science Engineering Student** @ Sahyadri College of Engineering  
 🔬 **AI/ML Intern** @ National Institute of Technology Karnataka (NITK)  
 💡 Passionate about building intelligent systems that solve real-world problems  
-🌟 Currently working on **Autonomous Driving Simulation** & **LLM-Powered Chatbots**
 
 <br clear="right"/>
 
