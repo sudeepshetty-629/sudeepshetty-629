@@ -30,9 +30,10 @@ class AIEngineer:
         self.education = "B.E. in AI & Data Science"
         self.current_focus = [
             "Generative AI & LLMs",
+            "Machine Learning"
+             "Agentic AI"
             "Computer Vision",
             "Autonomous Systems",
-            "RAG Architectures"
         ]
         
     def say_hi(self):
