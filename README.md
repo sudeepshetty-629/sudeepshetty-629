@@ -2,37 +2,205 @@
 
 <div align="center">
   
-  <!-- Animated 3D Header -->
+  <!-- Animated 3D Header with Gradient -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667EEA,100:764BA2&height=200&section=header&text=AI%20%26%20ML%20Engineer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Intelligent%20Systems%20with%20Cutting-Edge%20AI&descAlignY=55&descSize=18" width="100%" />
   
-  <!-- Dynamic Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Specialist;Computer+Vision+Developer;LLMOps+%26+RAG+Expert;Building+Intelligent+Systems" alt="Typing SVG" />
+</div>
+
+<br>
+
+<!-- Futuristic Hero Section -->
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   
   <br><br>
   
-  <!-- Animated Profile Stats -->
-  <img src="https://komarev.com/ghpvc/?username=sudeepshetty-629&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <!-- Dynamic Typing Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Generative+AI+Specialist+%F0%9F%9A%80;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;LLMOps+%26+RAG+Expert+%F0%9F%93%9A;Building+Intelligent+Systems+%F0%9F%A7%A0;Turning+Data+into+Intelligence+%E2%9A%A1" alt="Typing SVG" />
+  
+  <br><br>
+  
+  <!-- Animated Profile Stats with Enhanced Styling -->
+  <img src="https://komarev.com/ghpvc/?username=sudeepshetty-629&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/sudeepshetty-629?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudeepshetty-629?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudeepshetty-629?color=667EEA&logo=github&style=for-the-badge&label=Followers">
+  </a>
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/sudeepshetty-629?color=764BA2&logo=github&style=for-the-badge&label=Stars">
+  
+  <br><br>
+  
+  <!-- Enhanced Social Links -->
+  <a href="mailto:sudeepshetty0629@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sudeep-shetty-3882b2348">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sudeepshetty-629">
+    <img src="https://img.shields.io/badge/🐙_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
   <br><br>
   
-  <!-- Social Links with Hover Animation -->
-  <a href="mailto:sudeepshetty0629@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sudeep-shetty-3882b2348"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sudeepshetty-629"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Animated Particles/Tech Background -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   
+</div>
+
+<br>
+
+<!-- Quick Highlights Banner -->
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
+        <b>Generative AI</b><br>
+        <sub>RAG Systems & LLMs</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
+        <b>Machine Learning</b><br>
+        <sub>PyTorch & TensorFlow</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>
+        <b>Computer Vision</b><br>
+        <sub>YOLO & OpenCV</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+        <b>Cloud & MLOps</b><br>
+        <sub>AWS, GCP & Docker</sub>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+<br>
+
+<!-- Current Status Cards -->
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/🎓_Student-AI_&_Data_Science-00D9FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🔬_Intern-NITK_Surathkal-667EEA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🌟_Focus-Autonomous_AI-764BA2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/📍_Location-Mangalore,_India-FF6B6B?style=for-the-badge">
+  
+</div>
+
+<br>
+
+<!-- Animated Wave Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+<br>
+
+<!-- Tech Stack Showcase Before About Me -->
+<div align="center">
+  
+  <h2>🛠️ Technology Arsenal</h2>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+  
+  <br><br>
+  
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="80" height="80" />
+  
+  <br><br>
+  
+  <!-- Skill Progress Bars -->
+  <table align="center">
+    <tr>
+      <td><b>⚡ AI/ML Development</b></td>
+      <td><img src="https://img.shields.io/badge/Expert-95%25-00D9FF?style=flat-square&logo=chartdotjs" /></td>
+    </tr>
+    <tr>
+      <td><b>🤖 Generative AI & LLMs</b></td>
+      <td><img src="https://img.shields.io/badge/Expert-92%25-667EEA?style=flat-square&logo=openai" /></td>
+    </tr>
+    <tr>
+      <td><b>👁️ Computer Vision</b></td>
+      <td><img src="https://img.shields.io/badge/Advanced-88%25-764BA2?style=flat-square&logo=opencv" /></td>
+    </tr>
+    <tr>
+      <td><b>☁️ Cloud & DevOps</b></td>
+      <td><img src="https://img.shields.io/badge/Advanced-85%25-FF6B6B?style=flat-square&logo=amazonaws" /></td>
+    </tr>
+    <tr>
+      <td><b>🔧 Full Stack Development</b></td>
+      <td><img src="https://img.shields.io/badge/Proficient-82%25-FFA500?style=flat-square&logo=react" /></td>
+    </tr>
+  </table>
+  
+</div>
+
+<br>
+
+<!-- Certifications Showcase -->
+<div align="center">
+  
+  <h3>🏆 Latest Achievements</h3>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50" />
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Oracle_Cloud-Generative_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=FF0000" />
+  <img src="https://img.shields.io/badge/Infosys-Data_Analytics_Certified-0076CE?style=for-the-badge&logo=infosys&logoColor=white&labelColor=003B71" />
+  <img src="https://img.shields.io/badge/NITK-AI/ML_Research_Intern-4CAF50?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=2E7D32" />
+  
+</div>
+
+<br>
+
+<!-- Current Projects Ticker -->
+<div align="center">
+  
+  <h3>🚀 Currently Building</h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="60"><br>
+        <b>Autonomous Driving</b><br>
+        <sub>Multi-sensor Perception System</sub>
+      </td>
+      <td align="center" width="300">
+        <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="60"><br>
+        <b>Multi-Modal RAG</b><br>
+        <sub>Enterprise AI Chatbot</sub>
+      </td>
+      <td align="center" width="300">
+        <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="60"><br>
+        <b>LLM Fine-Tuning</b><br>
+        <sub>Domain-Specific Models</sub>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+<br>
+
+<!-- Animated Wave Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
 ---
-
-<div align="center">
-  
-  <!-- 3D Rotating Cube Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-  
-</div>
 
 ## 🚀 About Me
 
@@ -65,6 +233,7 @@ me.say_hi()
 🎓 **AI & Data Science Engineering Student** @ Sahyadri College of Engineering  
 🔬 **AI/ML Intern** @ National Institute of Technology Karnataka (NITK)  
 💡 Passionate about building intelligent systems that solve real-world problems  
+🌟 Currently working on **Autonomous Driving Simulation** & **LLM-Powered Chatbots**
 
 <br clear="right"/>
 
@@ -88,12 +257,6 @@ me.say_hi()
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-  
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   
 </div>
 
